@@ -8,12 +8,12 @@
 - Arama, filtreleme ve sayfalama  
 
 ## Proje Görüntüleri
-![Araç Takip Sistemi](../images/image-1.png)
-![Araç Takip Sistemi](../images/image-2.png) 
-![Araç Takip Sistemi](../images/image-3.png) 
-![Araç Takip Sistemi](../images/image-4.png) 
-![Araç Takip Sistemi](../images/image-5.png) 
-![Araç Takip Sistemi](../images/image-6.png) 
+![Araç Takip Sistemi](./images/image-1.png)
+![Araç Takip Sistemi](./images/image-2.png) 
+![Araç Takip Sistemi](./images/image-3.png) 
+![Araç Takip Sistemi](./images/image-4.png) 
+![Araç Takip Sistemi](./images/image-5.png) 
+![Araç Takip Sistemi](./images/image-6.png) 
 
 
 ## İlgili Repolar
