@@ -1,0 +1,6 @@
+@CarKilometerTrack_HostAddress = http://localhost:5267
+
+GET {{CarKilometerTrack_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
