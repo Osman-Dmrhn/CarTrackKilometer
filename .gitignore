@@ -1,0 +1,31 @@
+# .NET / Backend .gitignore
+
+# Build results
+[Bb]in/
+[Oo]bj/
+out/
+dist/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Logs
+*.log
+
+# Visual Studio cache/options
+.vs/
+
+# Rider
+.idea/
+
+# Environment variables
+.env
+
+# Others
+*.db
+*.sqlite
+*.mdf
+*.ldf
