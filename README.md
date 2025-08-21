@@ -17,7 +17,7 @@
 
 
 ## İlgili Repolar
-- 📌 **Frontend Reposu:** [Araç Takip Sistemi Frontend]((https://github.com/Osman-Dmrhn/CarTrackKilometerFrontend))  
+- 📌 **Frontend Reposu:** [Araç Takip Sistemi Frontend](https://github.com/Osman-Dmrhn/CarTrackKilometerFrontend)  
 - ⚙️ **Backend Reposu:** Bu repo
 
 ---
